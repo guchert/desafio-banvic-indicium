@@ -42,4 +42,4 @@ Desafio concluído com aprovação e certificação emitida pela **Indicium Acad
 
 Profissional de TI em transição de carreira para Análise de Dados e Analytics Engineering, com mais de 20 anos de experiência em infraestrutura, suporte e qualidade de software. Este projeto marca minha primeira experiência prática ponta a ponta em um caso real de análise de dados.
 
-[LinkedIn](#) — atualize com o link do seu perfil
+[LinkedIn](#) — https://www.linkedin.com/in/leonardoguchert
